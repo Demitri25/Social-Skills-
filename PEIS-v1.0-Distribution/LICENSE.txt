@@ -1,0 +1,130 @@
+PEDIATRIC EMOTIONAL INTELLIGENCE SCALE (PEIS)
+SOFTWARE LICENSE AGREEMENT
+
+Version 1.0
+Copyright (c) 2025 James Paicopolos
+All Rights Reserved
+
+EDUCATIONAL AND CLINICAL USE LICENSE
+
+This Software License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and the PEIS Development Team for the Pediatric Emotional Intelligence Scale software product, which includes computer software and associated documentation ("Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, the PEIS Development Team hereby grants you a non-exclusive, non-transferable license to:
+
+a) Use the Software for educational and clinical assessment purposes
+b) Install the Software on multiple computers within your organization
+c) Make backup copies of the Software for archival purposes
+d) Print assessment reports and documentation for professional use
+
+2. RESTRICTIONS
+
+You may NOT:
+
+a) Distribute, sell, lease, rent, or sublicense the Software
+b) Reverse engineer, decompile, or disassemble the Software
+c) Remove or alter any copyright notices or proprietary legends
+d) Use the Software for commercial distribution or resale
+e) Modify the scoring algorithms or assessment content
+f) Create derivative works based on the Software
+
+3. PERMITTED USES
+
+This license permits use by:
+
+a) Licensed psychologists and mental health professionals
+b) Educational institutions and school districts
+c) Clinical research facilities and universities
+d) Healthcare organizations and hospitals
+e) Private practice professionals
+
+4. PROFESSIONAL QUALIFICATIONS
+
+Use of this assessment tool requires:
+
+a) Appropriate professional training in psychological assessment
+b) Current licensure or certification in relevant field
+c) Understanding of psychometric principles and test interpretation
+d) Compliance with professional ethical standards
+
+5. DATA PRIVACY AND SECURITY
+
+You agree to:
+
+a) Maintain confidentiality of all assessment data
+b) Comply with HIPAA, FERPA, and other applicable privacy laws
+c) Implement appropriate data security measures
+d) Obtain proper consent before assessment administration
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE PEIS DEVELOPMENT TEAM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE PEIS DEVELOPMENT TEAM BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. PROFESSIONAL RESPONSIBILITY
+
+Users acknowledge that:
+
+a) This software is a tool to assist in professional assessment
+b) Clinical judgment and professional interpretation are required
+c) Results should be considered within broader assessment context
+d) Users are responsible for appropriate use and interpretation
+
+9. UPDATES AND SUPPORT
+
+a) Updates may be provided at the discretion of the PEIS Development Team
+b) Technical support is provided on a best-effort basis
+c) No guarantee of continued support or updates is implied
+
+10. TERMINATION
+
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this Agreement.
+
+11. RESEARCH AND PUBLICATION
+
+When using PEIS in research or publications, please cite as:
+
+Pediatric Emotional Intelligence Scale (PEIS) Version 1.0 (2025).
+Professional Assessment Tool for Children and Adolescents.
+
+12. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the software was developed.
+
+13. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between you and the PEIS Development Team regarding the Software and supersedes all prior agreements and understandings.
+
+14. CONTACT INFORMATION
+
+For licensing questions, technical support, or permissions:
+Email: jim@neldc.org
+Website: www.neldc.org
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+---
+
+TECHNICAL SPECIFICATIONS AND VALIDATION
+
+The Pediatric Emotional Intelligence Scale (PEIS) has been developed using established psychometric principles and validated through comprehensive research studies. The assessment tool provides:
+
+- Standardized administration procedures
+- Age-appropriate norms for children 2.5-18 years
+- Reliable and valid measurement across five EI domains
+- Professional-grade scoring algorithms
+- Comprehensive interpretive reports
+
+For complete technical documentation, validation studies, and research bibliography, please refer to the Technical Manual included with this distribution.
+
+---
+
+Copyright Notice: This software and documentation are protected by copyright law and international treaties. Unauthorized reproduction or distribution of this software, or any portion of it, may result in severe civil and criminal penalties.
+
+Last Updated: September 22, 2025
